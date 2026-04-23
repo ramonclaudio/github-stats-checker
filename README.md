@@ -6,7 +6,6 @@
 
 <p align="center">
     <a href="https://github.com/ramonclaudio/github-stats-checker" title="Go to repo">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=GitHub%20Stats%20Checker&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRamon Claudio%2Fgithub-stats-checker%2Fmain%2F.github%2Fversion.json" alt="GitHub Stats Checker">
     </a>
 </p>
 
@@ -18,9 +17,9 @@
 <p align="center">
     <a href="/">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/github-stats-checker/main/.github/github-logo-dark.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/github-stats-checker/main/.github/github-logo-light.png">
-          <img alt="GitHub" width="250" src="https://raw.githubusercontent.com/ramonclaudio/github-stats-checker/main/.github/github-logo-dark.png">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramonclaudio/github-stats-checker/main/.github/assets/github-logo-dark.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramonclaudio/github-stats-checker/main/.github/assets/github-logo-light.png">
+          <img alt="GitHub" width="250" src="https://raw.githubusercontent.com/ramonclaudio/github-stats-checker/main/.github/assets/github-logo-dark.png">
         </picture>
     </a>
 </p>
